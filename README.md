@@ -1,1 +1,1 @@
-# fredrin-s3-probe-a
+Throwaway test app for the Fredrin files gateway probe.
